@@ -1,5 +1,8 @@
 import random
 
+
+print("haha")
+print("修改")
 print("大樂透")
 print("你好")
 # 號碼不能重複
