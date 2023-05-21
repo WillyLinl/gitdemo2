@@ -1,6 +1,6 @@
 import random
 
-
+print(1)
 print("haha")
 print("修改")
 print("大樂透")
