@@ -1,5 +1,6 @@
 import random
 
+print("大樂透")
 a = set()
 while True:
     x = random.randint(1, 49)
